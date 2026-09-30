@@ -50,4 +50,22 @@ R- RESEARCH
 
 2. SPEED:- Computer can perform data processing jobs at very fast speed usually measured in microsecond(10’⁶), nanosecond(10’⁹), picosecond(10'¹²).
 
-3. ACCURACY:- Accuracy of a computer is consistently high and the degree of its accuracy 
+3. ACCURACY:- Accuracy of a computer is consistently high and the degree of its accuracy depends upon its design. computer error cost due to incorrect input data or unreliable program are often referred to as garbage in garbage out. 
+
+4. DILIGENCE:- computer history from monotony tiredness or lack of concentration it can continuously work for our without creating any error and without grumbling. 
+
+5. VERSATILITY:- computers capable of performing almost and it ask if the task can be reduced to a finite series of logical steps. 
+
+6. RELIABILITY:- 
+• computer se reliable machine. 
+• body electronic component have long life 
+• computer designed to make maintenance easy.
+
+7. STORAGE CAPABILITY:-
+• memory is a very important characteristic of computer. 
+• a computer has much more storage capacity than human beings. 
+• store large amount of data like video images etc 
+
+            DISADVANTAGE OF COMPUTERS 
+
+1. NO IQ:-a computer does not only what it program to do it can't take it on decision in the regards.
